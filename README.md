@@ -1,4 +1,4 @@
-# DataScience
+# Facial Expression recognition with keras
 When i was learning about computer vision and neural networks i created this project. It's actually a guided project from cousera(Online learning platform).
 I have used jupyter notebook for creating model. It is self explanatoryn with comments. After creating model i have saved its architecture and weights.
 Later on for flask app i have used those early created model weights and start testing with videos, images and webcame. it works very well...
